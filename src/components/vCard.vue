@@ -1,6 +1,7 @@
 <template>
   <div class="v-card">
     <h1>Card</h1>
+    <input type="text">
     <vCardItem />
   </div>
 </template>
